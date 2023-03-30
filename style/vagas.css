@@ -1,0 +1,21 @@
+.vagas {
+    padding: 96px 0;
+    gap: 64px;
+}
+
+.talentos {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 64px;
+    margin: 0 auto;
+}
+
+#vagasAbertas {
+    padding: 4px 12px;
+    color: #8E2424;
+    border-radius: 16px;
+    line-height: 20px;
+    width: fit-content;
+    background-color: rgba(142, 36, 36, 0.05);
+}

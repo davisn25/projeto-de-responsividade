@@ -1,0 +1,44 @@
+.navigationBar {
+    padding: 0 32px;
+    display: flex;
+    justify-content: space-between;
+    width: 1480px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.navigationBar nav {
+    display: flex;
+    align-items: center;
+}
+
+#space {
+    width: 142px;
+}
+
+.home {
+    display: flex;
+    list-style: none;
+    gap: 32px;
+}
+
+.navigationEnd__list {
+    display: flex;
+    list-style: none;
+    gap: 12px;
+}
+
+.navigationEnd__item {
+    padding: 10px 18px;
+    line-height: 24px;
+}
+
+#signIn {
+    color: #FFFFFF;
+    background-color: #8E2424;
+    border-radius: 8px;
+}

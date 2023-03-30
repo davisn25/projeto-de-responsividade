@@ -1,0 +1,20 @@
+.metricas {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.figure {
+    gap: 12px;
+    width: 280px;
+}
+
+.figureNumber {
+    color: #8E2424;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.figureText {
+    gap: 8px;
+}

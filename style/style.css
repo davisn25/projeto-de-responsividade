@@ -1,0 +1,32 @@
+@import "navigationBar.css";
+@import "about.css";
+@import "metricas.css";
+@import "vagas.css";
+
+* {
+    margin: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: #667085;
+    font-weight: 500;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 18px 0;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h4 {
+    color: #8E2424;
+}

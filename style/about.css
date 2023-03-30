@@ -1,0 +1,15 @@
+.about {
+    display: grid;
+    text-align: center;
+    padding: 96px 0;
+    gap: 24px;
+}
+
+#diferentes {
+    font-size: 48px;
+}
+
+#focamos {
+    width: 790px;
+    text-align: center;
+}
